@@ -7,6 +7,7 @@ scripts, using Gradio.
 
 Watch the explanation and demonstration of this project here:
 [Video Link](TODO: Add video link)
+[Supporting Doc](TODO: Add doc link)
 
 ## Getting Started
 
