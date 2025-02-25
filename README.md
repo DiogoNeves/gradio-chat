@@ -6,8 +6,8 @@ scripts, using Gradio.
 ## Video Demonstration
 
 Watch the explanation and demonstration of this project here:
-[Video Link](TODO: Add video link)
-[Supporting Doc](TODO: Add doc link)
+[Watch on YouTube](https://youtu.be/P8-CUb9B4A4)
+[Supporting Doc](https://diogo.short.gy/gradio-docs)
 
 ## Getting Started
 
